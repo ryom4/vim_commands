@@ -1,4 +1,7 @@
-<head>VIM commands</head>
+<head>
+<title>VIM commands</title>  
+</head>
+
 <pre>
 :q => quit  
 :wq => save & quit  
