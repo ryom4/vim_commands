@@ -9,13 +9,21 @@ zz => center cursor to page
 w => move through words right
 b => move through words left 
 $ => end line
+0 => beginning line
 A => go to end of line + insert mode
-t + where => go where you want///; to next it
+a => next character insert mode
+t + where => go where you want///; to next it and , to backwards
 
 u => undo
 ctrl+r => redo
 . => do again
 
+c => change
+	cw => change word
+	cc => change line
+	ci => change inside
+	ctx => change till x 
+C => change until end of line
 dd => delete + copy
 y => copy
 p => paste
@@ -34,6 +42,7 @@ O => newline up
 
 / => search word
      n => cycle through founds
+     N => cycle backwards
 
 comment code block => ctrl+v -> shift+i -> // -> esc
 
