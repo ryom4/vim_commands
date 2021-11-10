@@ -4,6 +4,7 @@
 :q => quit  
 :wq => save & quit  
 :q! => quit w/o saving
+i => enter insert mode
 </pre>
 <pre>
 jklh => move  
