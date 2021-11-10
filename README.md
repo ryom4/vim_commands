@@ -16,9 +16,7 @@ $ => end line
 0 => beginning line  
 A => go to end of line + insert mode  
 a => next character insert mode  
-t + where => go where you want in the line
-	; to next it 
-	, to backwards
+t + where => go where you want///; to next it and , to backwards
 </pre>
 <pre>
 u => undo  
