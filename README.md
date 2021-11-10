@@ -1,6 +1,6 @@
-<head>
-<title>VIM commands</title>  
-</head>
+#VIM commands
+
+---
 
 <pre>
 :q => quit  
