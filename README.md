@@ -1,3 +1,4 @@
+## VIM COMMANDS
 
 <pre>
 :q => quit  
@@ -16,8 +17,8 @@ $ => end line
 A => go to end of line + insert mode  
 a => next character insert mode  
 t + where => go where you want
-	; to next it
-	, to backwards
+    ; to next it
+    , to backwards
 </pre>
 <pre>
 u => undo  
