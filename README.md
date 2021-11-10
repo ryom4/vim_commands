@@ -1,3 +1,4 @@
+<head>VIM commands</head>
 <pre>
 :q => quit  
 :wq => save & quit  
@@ -23,10 +24,10 @@ ctrl+r => redo
 </pre>
 <pre>
 c => change  
- cw => change word  
- cc => change line  
- ci => change inside  
- ctx => change till x 
+    cw => change word  
+    cc => change line  
+    ci => change inside  
+    ctx => change till x 
 C => change until end of line  
 </pre>
 <pre>
@@ -52,8 +53,8 @@ O => newline up
 </pre>
 <pre>
 / => search word  
- n => cycle through founds  
- N => cycle backwards
+    n => cycle through founds  
+    N => cycle backwards
 </pre>
 <pre>
 comment code block => ctrl+v -> shift+i -> // -> esc
