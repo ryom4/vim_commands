@@ -1,7 +1,5 @@
 ## VIM commands
 
----
-
 <pre>
 :q => quit  
 :wq => save & quit  
