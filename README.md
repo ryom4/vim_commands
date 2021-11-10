@@ -18,11 +18,13 @@ u => undo
 ctrl+r => redo  
 . => do again
 
+<pre>
 c => change  
  cw => change word  
  cc => change line  
  ci => change inside  
- ctx => change till x  
+ ctx => change till x </pre>
+
 C => change until end of line  
 dd => delete + copy  
 y => copy  
@@ -38,11 +40,14 @@ r => replace character
 o => newline  
 O => newline up
 
-> => tab  
-< => reverse tab
-
+<pre>
+> => tab 
+< => reverse tab 
+</pre>
+<pre>
 / => search word  
  n => cycle through founds  
  N => cycle backwards
+</pre>
 
 comment code block => ctrl+v -> shift+i -> // -> esc
