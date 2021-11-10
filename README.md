@@ -19,10 +19,10 @@ ctrl+r => redo
 . => do again
 
 c => change  
-     cw => change word  
-     cc => change line  
-     ci => change inside  
-     ctx => change till x  
+ cw => change word  
+ cc => change line  
+ ci => change inside  
+ ctx => change till x  
 C => change until end of line  
 dd => delete + copy  
 y => copy  
@@ -42,7 +42,7 @@ O => newline up
 < => reverse tab
 
 / => search word  
-     n => cycle through founds  
-     N => cycle backwards
+ n => cycle through founds  
+ N => cycle backwards
 
 comment code block => ctrl+v -> shift+i -> // -> esc
