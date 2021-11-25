@@ -10,7 +10,15 @@ i => enter insert mode
 jklh => move  
 gg => move top  
 G => move down  
+:num => go to line num
+H | L | M => top bot mid display
+ctrl + u => move up half window
+ctrl + d => move down half window 
 zz => center cursor to page  
+() {} => move block code
+% => move through starting and ending parenthesis
+</pre>
+<pre>
 w => move through words right  
 b => move through words left  
 $ => end line  
